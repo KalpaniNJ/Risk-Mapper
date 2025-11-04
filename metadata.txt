@@ -13,7 +13,7 @@ category=Analysis
 
 # links
 homepage=https://github.com/KalpaniNJ/Risk-Mapper.git
-tracker=
+tracker=https://github.com/KalpaniNJ/Risk-Mapper/issues
 repository=https://github.com/KalpaniNJ/Risk-Mapper.git
 
 icon=icon.png
