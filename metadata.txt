@@ -23,3 +23,5 @@ experimental=true
 
 # tags
 tags=risk, hazard, exposure, vulnerability, processing, automation, flood
+
+license=GPL-3
