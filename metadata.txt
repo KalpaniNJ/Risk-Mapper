@@ -12,9 +12,9 @@ about=Automates raster preprocessing, hazard frequency, exposure and vulnerabili
 category=Analysis
 
 # links
-homepage=
+homepage=https://github.com/KalpaniNJ/Risk-Mapper.git
 tracker=
-repository=
+repository=https://github.com/KalpaniNJ/Risk-Mapper.git
 
 icon=icon.png
 
