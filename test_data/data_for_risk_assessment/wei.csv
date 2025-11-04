@@ -1,0 +1,16 @@
+indicator,weight
+a15_sum,0.12
+hea_sum,0.12
+hsl_sum,0.12
+litF_sum,0.06
+litM_sum,0.06
+pd_sum,0.06
+pov_sum,0.06
+HT_Yard,0.03
+HT_Hut,0.03
+HT_Flats,0.03
+HT_Semi_de,0.03
+HT_Rooms,0.03
+HT_Informl,0.03
+unep_rate,0.13
+water_sum,0.09

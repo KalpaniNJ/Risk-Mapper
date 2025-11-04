@@ -1,0 +1,25 @@
+[general]
+name=Risk Mapper
+qgisMinimumVersion=3.0
+version=0.1.0
+author=International Water Management Institute
+email=wrd@iwmi.org
+
+contributors=Kalpani Jayamini <K.Jayamini@cgiar.org>, Niranga Alahacoon <N.Alahacoon@cgiar.org>, Amarnath Giriraj <A.Giriraj@cgiar.org>
+
+description=QGIS Processing provider for fine-scale hazard, exposure, vulnerability, and risk mapping.
+about=Automates raster preprocessing, hazard frequency, exposure and vulnerability indices, and zonal statistics into a single Processing provider.
+category=Analysis
+
+# links
+homepage=
+tracker=
+repository=
+
+icon=icon.png
+
+# experimental flag
+experimental=true
+
+# tags
+tags=risk, hazard, exposure, vulnerability, processing, automation, flood
